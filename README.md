@@ -21,3 +21,5 @@ CMS:
     Telegram: @MaI0SerfI3unny
     Email: daniledkin@gmail.com
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaI0SerfI3unny)](https://github.com/anuraghazra/github-readme-stats)
