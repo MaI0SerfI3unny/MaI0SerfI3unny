@@ -14,6 +14,7 @@ My skills:
 
 Frameworks:
 - React/Redux
+- JQuery
 
 CMS:
 - Wordpress
