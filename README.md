@@ -27,4 +27,4 @@ CMS:
     Email: daniledkin@gmail.com
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
 
-<a href="https://imgflip.com/gif/5g9gae"></a>
+<a href="https://imgflip.com/gif/5g9gae"><img src="https://i.imgflip.com/5g9gae.gif"></a>
