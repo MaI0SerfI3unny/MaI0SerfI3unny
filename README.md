@@ -14,6 +14,8 @@ My skills:
 
 Frameworks:
 - React/Redux
+- Vue2
+- Yii2
 - JQuery
 
 CMS:
