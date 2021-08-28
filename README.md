@@ -28,4 +28,4 @@ CMS:
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
 
 <a href="https://media.kyrrex.com/"><img src="https://i.imgflip.com/5g9gae.gif"></a>
-<a href="https://media.kyrrex.com/"><img src="https://imgflip.com/gif/5l3jai.gif"></a>
+<a href="https://media.kyrrex.com/"><img src="https://i.imgflip.com/5l3jai.gif"></a>
