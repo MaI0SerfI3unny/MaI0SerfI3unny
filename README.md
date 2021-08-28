@@ -21,6 +21,7 @@ Frameworks:
 CMS:
 - Wordpress
 - October
+- Strapi
 
 - 📫 You can reach me:
     Telegram: @MaI0SerfI3unny
@@ -28,4 +29,4 @@ CMS:
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
 
 <a href="https://media.kyrrex.com/"><img src="https://i.imgflip.com/5g9gae.gif"></a>
-<a href="https://media.kyrrex.com/"><img style="height:202px" src="https://i.imgflip.com/5l3jai.gif"></a>
+<a href="https://media.kyrrex.com/"><img height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
