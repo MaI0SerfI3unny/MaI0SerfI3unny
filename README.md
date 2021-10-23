@@ -36,4 +36,4 @@ CMS:
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
 
 <a href="https://media.kyrrex.com/"><img src="https://i.imgflip.com/5g9gae.gif"></a>
-<a href="https://krrx-bot.com/"><img height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
+<a href="https://kyrrex.com/en/blog/"><img height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
