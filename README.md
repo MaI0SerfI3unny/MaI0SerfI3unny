@@ -12,11 +12,18 @@ My skills:
 - scss,sass,less
 - gulp
 
+Databases:
+- Mongo
+- Mysql
+- Sqlite
+
 Frameworks:
 - React/Redux
+- Node.js
 - Vue2
 - Yii2
 - JQuery
+- React Native
 
 CMS:
 - Wordpress
