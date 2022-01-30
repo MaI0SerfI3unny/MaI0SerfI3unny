@@ -35,6 +35,6 @@ CMS:
     Email: daniledkin@gmail.com
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
 
-<a href="https://kyrrex.com/en/blog/"><img src="https://i.imgflip.com/5g9gae.gif"></a>
-<a href="https://krrx-bot.com/"><img height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
-<img height="202" src="https://i.imgflip.com/63ahye.gif">
+<a href="https://kyrrex.com/en/blog/"><img width="333" src="https://i.imgflip.com/5g9gae.gif"></a>
+<a href="https://krrx-bot.com/"><img width="333" height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
+<img height="202" width="333" src="https://i.imgflip.com/63ahye.gif">
