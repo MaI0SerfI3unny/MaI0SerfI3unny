@@ -37,3 +37,4 @@ CMS:
 
 <a href="https://kyrrex.com/en/blog/"><img src="https://i.imgflip.com/5g9gae.gif"></a>
 <a href="https://krrx-bot.com/"><img height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
+<img height="202" src="https://imgflip.com/gif/63ahye">
