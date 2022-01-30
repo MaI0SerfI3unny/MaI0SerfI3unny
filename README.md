@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://kyrrex.com/en/blog/"><img width="333" src="https://i.imgflip.com/5g9gae.gif"></a>
+<a href="https://krrx-bot.com/"><img width="333" height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
+<img height="202" width="333" src="https://i.imgflip.com/63ahye.gif">
+</p>
+
 -Hello there 
  
 I'm Daniel from Ukraine and i`m 18. At the moment I working on company for cryptocurrencies junior React developer and now I want promoted my skills in full stack.
@@ -34,8 +40,3 @@ CMS:
     Telegram: @MaI0SerfI3unny
     Email: daniledkin@gmail.com
     Instagram: https://www.instagram.com/mr_d.a.n.i.n.a?r=nametag
-<p align="center">
-<a href="https://kyrrex.com/en/blog/"><img width="333" src="https://i.imgflip.com/5g9gae.gif"></a>
-<a href="https://krrx-bot.com/"><img width="333" height="202" src="https://i.imgflip.com/5l3jai.gif"></a>
-<img height="202" width="333" src="https://i.imgflip.com/63ahye.gif">
-</p>
