@@ -10,6 +10,7 @@ My nickname @MaI0SerfI3unny(MadSerfBunny) means my desire to master programming 
 <a href="https://krrx-bot.com/"><img width="277" height="156" src="https://i.imgflip.com/5l3jai.gif"></a>
 <img width="277" height="156" src="https://i.imgflip.com/63ahye.gif">
 </p>
+<img width="277" height="156" src="https://imgflip.com/gif/6a1m95.gif">
 
 My skills:
 - Html, css, js
