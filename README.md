@@ -13,6 +13,7 @@ My nickname @MaI0SerfI3unny(MadSerfBunny) means my desire to master programming 
 
 <p align="center">
 <a href="https://frontua.org/#en"><img width="277" height="156" src="https://i.imgflip.com/6bb9uv.gif"></a>
+<a href="http://82.118.23.78"><img width="277" height="156" src="https://i.imgflip.com/6c7qvj.gif"></a>
 </p>
 
 My skills:
