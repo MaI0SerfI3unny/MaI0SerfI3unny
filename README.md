@@ -29,6 +29,7 @@ Databases:
 - Mongo
 - Mysql
 - Sqlite
+- Firebase
 
 Frameworks:
 - React/Redux
