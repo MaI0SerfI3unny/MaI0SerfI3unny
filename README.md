@@ -22,6 +22,7 @@ My skills:
 - Html, css, js
 - Php
 - Python (basic)
+- C#
 - scss,sass,less
 - gulp
 
