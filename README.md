@@ -3,7 +3,6 @@
 I'm Daniel from Ukraine and i`m 18. At the moment I working on company for cryptocurrencies junior React developer and now I want promoted my skills in full stack.
 My nickname @MaI0SerfI3unny(MadSerfBunny) means my desire to master programming technologies as soon as possible by surfing and reading documentation.
 
-<a href="http://madserfbunny.site">Checkout my portfolio site</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaI0SerfI3unny)](https://github.com/anuraghazra/github-readme-stats)
 
