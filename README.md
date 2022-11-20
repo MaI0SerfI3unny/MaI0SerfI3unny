@@ -9,7 +9,7 @@ My nickname @MaI0SerfI3unny(MadSerfBunny) means my desire to master programming 
 <p align="center">
 <a href="https://kyrrex.com/blog/"><img width="277" height="156" src="https://i.imgflip.com/5g9gae.gif"></a>
 <a href="https://krrx-bot.com/"><img width="277" height="156" src="https://i.imgflip.com/5l3jai.gif"></a>
-<img width="277" height="156" src="https://i.imgflip.com/63ahye.gif">
+<a href="https://cryppush.net/"><img width="277" height="156" src="https://i.imgflip.com/63ahye.gif"></a>
 </p>
 
 <p align="center">
