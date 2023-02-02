@@ -38,6 +38,7 @@ Databases:
 
 Frameworks:
 - React/Redux
+- Typescript
 - Next.js
 - Node.js
 - Vue2
