@@ -34,11 +34,12 @@ Databases:
 - Sqlite
 - Firebase
 
-Frameworks:
+Frameworks and library:
 - React/Redux
 - Typescript
 - Next.js
 - Node.js
+- Nest.js
 - Vue2
 - Yii2
 - JQuery
