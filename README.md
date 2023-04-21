@@ -1,7 +1,3 @@
--Hello there 
-My nickname @MaI0SerfI3unny(MadSerfBunny) means my desire to master programming technologies as soon as possible by surfing and reading documentation.
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaI0SerfI3unny)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
