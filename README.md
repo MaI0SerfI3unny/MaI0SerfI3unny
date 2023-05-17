@@ -29,6 +29,7 @@ Databases:
 - Mysql
 - Sqlite
 - Firebase
+- GraphQL
 
 Frameworks and library:
 - React/Redux
