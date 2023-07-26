@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://expiria.co/freightos-wp/"><img width="277" height="156" src="https://i.imgflip.com/79p1jo.gif"></a>
 <a href="https://moow.pro"><img width="277" height="156" src="https://i.imgflip.com/7p6dhn.gif"></a>
-<a href="https://bitquant.online"><img width="277" height="156" src="https://i.imgflip.com/7tsver.gif"></a>
+<a href="https://github.com/MaI0SerfI3unny/veesweet-landing"><img width="277" height="156" src="https://i.imgflip.com/7tsver.gif"></a>
 </p>
 
 My skills:
