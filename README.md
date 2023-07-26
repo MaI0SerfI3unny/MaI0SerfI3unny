@@ -32,6 +32,7 @@ Databases:
 - Sqlite
 - Firebase
 - GraphQL
+- PostgreSql
 
 Frameworks and library:
 - React/Redux
@@ -41,8 +42,10 @@ Frameworks and library:
 - Nest.js
 - Vue2
 - Yii2
+- Laravel
 - JQuery
 - React Native
+- Docker
 
 CMS:
 - Wordpress
