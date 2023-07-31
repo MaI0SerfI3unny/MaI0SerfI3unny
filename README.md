@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://frontua.org/#en"><img width="277" height="156" src="https://i.imgflip.com/6bb9uv.gif"></a>
+<a href="https://github.com/MaI0SerfI3unny/frontua-landing"><img width="277" height="156" src="https://i.imgflip.com/6bb9uv.gif"></a>
 <a href="https://bitquant.info"><img width="277" height="156" src="https://i.imgflip.com/6c7qvj.gif"></a>
 <a href="https://bitquant.online"><img width="277" height="156" src="https://i.imgflip.com/6fvsp8.gif"></a>
 </p>
