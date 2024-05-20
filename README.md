@@ -34,6 +34,8 @@
 
 <p align="center">
 <a href=""><img width="277" height="600" src="https://i.imgflip.com/8qnwf3.jpg"></a>
+    <a href=""><img width="277" height="600" src="https://i.imgflip.com/8qnwf3.jpg"></a>
+    <a href=""><img width="277" height="600" src="https://i.imgflip.com/8qnwf3.jpg"></a>
 </p>
 
 # Skills
