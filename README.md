@@ -28,6 +28,7 @@
 
 <p align="center">
 <a href="https://anton.mishnev.com.ua/"><img width="277" height="156" src="https://i.imgflip.com/8kpus5.gif"></a>
+<a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9ton22.gif"></a>
 </p>
 
 # Mobile Portfolio (Swift)
