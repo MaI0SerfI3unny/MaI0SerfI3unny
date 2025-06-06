@@ -1,5 +1,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaI0SerfI3unny)](https://github.com/anuraghazra/github-readme-stats)
 
+🧑‍💻 Quick Facts
+
+    👱‍♂️ Full Name (nickname): Yedkin Danylo Yaroslavovich
+    🎂 Born: August 12, 2003
+    🇺🇦 Nationality: Ukrainian
+    🌐 Languages:
+    Ukrainian (Native) 💙💛
+    Russian (Native)
+    English (B2 - Upper Intermediate) 🇺🇸
+
 # Commercial Projects
 
 <p align="center">
