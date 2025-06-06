@@ -2,10 +2,10 @@
 
 # 🧑‍💻 Quick Facts
 
-👱‍♂️ Full Name (nickname): Yedkin Danylo Yaroslavovich
-🎂 Born: August 12, 2003
-🇺🇦 Nationality: Ukrainian
-🌐 Languages:
+👱‍♂️ Full Name (nickname): Yedkin Danylo Yaroslavovich<br />
+🎂 Born: August 12, 2003<br />
+🇺🇦 Nationality: Ukrainian<br />
+🌐 Languages:<br />
 - Ukrainian (Native) 💙💛
 - Russian
 - English (B2 - Upper Intermediate) 🇺🇸
