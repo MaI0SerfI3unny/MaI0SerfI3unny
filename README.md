@@ -40,11 +40,10 @@
 <a href="https://anton.mishnev.com.ua/"><img width="277" height="156" src="https://i.imgflip.com/8kpus5.gif"></a>
 <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9ton22.gif"></a>
 <a href=""><img width="277" height="156" src="https://i.imgflip.com/9wwj1v.gif"></a>
-     <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
 </p>
 
 <p align="center">
-    <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
+     <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9x27qa"></iframe></div><p><a href="https://imgflip.com/gif/9x27qa">via Imgflip</a></p></div>
 </p>
 
 # Mobile Portfolio (Swift)
