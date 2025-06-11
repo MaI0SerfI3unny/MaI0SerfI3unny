@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<a href="https://interior.azmo.io/"><img width="277" height="156" src="https://i.imgflip.com/9wwj1v.gif"></a>
+<a href="https://interior.azmo.io/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
 </p>
 
 # Mobile Portfolio (Swift)
