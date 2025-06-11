@@ -43,7 +43,6 @@
 </p>
 
 <p align="center">
-     вв
      <a href=""><img width="277" height="156" src="https://i.imgflip.com/9x27qa.gif"></a>
 </p>
 
