@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-     <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9x27qa"></iframe></div><p><a href="https://imgflip.com/gif/9x27qa">via Imgflip</a></p></div>
+     <a href=""><img width="277" height="156" src="https://i.imgflip.com/9x27qa.gif"></a>
 </p>
 
 # Mobile Portfolio (Swift)
