@@ -44,8 +44,6 @@
 
 <p align="center">
     <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
-    <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
-    <a href="https://makerspace.kai.edu.ua/"><img width="277" height="156" src="https://i.imgflip.com/9x26h0.gif"></a>
 </p>
 
 # Mobile Portfolio (Swift)
